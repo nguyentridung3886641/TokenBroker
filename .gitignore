@@ -1,0 +1,15 @@
+# Java's compile files
+*.class
+**/target/
+
+# IDE's configuration files (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Operating system's files
+.DS_Store
+Thumbs.db
