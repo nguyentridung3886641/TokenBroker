@@ -13,3 +13,12 @@
 # Operating system's files
 .DS_Store
 Thumbs.db
+
+# Maven
+target/
+*.log
+
+# Environment files
+.env
+.DS_Store
+Thumbs.db
